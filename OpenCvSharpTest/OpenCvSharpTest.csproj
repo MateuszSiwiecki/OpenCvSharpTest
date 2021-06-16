@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="morelinq" Version="3.3.2" />
+    <PackageReference Include="OpenCvSharp4.Windows" Version="4.5.2.20210404" />
+    <PackageReference Include="OpenCvSharp4.WpfExtensions" Version="4.5.2.20210404" />
+  </ItemGroup>
+
+</Project>
